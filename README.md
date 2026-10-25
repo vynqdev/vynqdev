@@ -85,12 +85,12 @@ From native C++ applications to full-stack web projects, I'm always experimentin
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vynqdev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vynqdev&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=vynqdev&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🤝 Contact
