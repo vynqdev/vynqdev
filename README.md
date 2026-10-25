@@ -14,7 +14,7 @@
   <a href="mailto:contactguizinstv@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.com">
+  <a href="https://discord..gg/nuvinaUD">
     <img src="https://img.shields.io/badge/Discord-vynqdev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
@@ -102,7 +102,7 @@ Have a project in mind, want to collaborate, or just talk about software develop
     <img src="https://img.shields.io/badge/Email-contactguizinstv%40gmail.com-9D4EDD?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <br>
-  <a href="https://discord.com">
+  <a href="https://discord.gg/nuvinaUD">
     <img src="https://img.shields.io/badge/Discord-vynqdev-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
