@@ -14,7 +14,7 @@
   <a href="mailto:contactguizinstv@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord..gg/nuvinaUD">
+  <a href="https://discord.gg/nuvinaUD">
     <img src="https://img.shields.io/badge/Discord-vynqdev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
