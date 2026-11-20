@@ -1,118 +1,80 @@
-# 👾 VYNQDEV | Software Developer
+<h1 align="center">Vynqdev</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Software+Developer;C%2B%2B+%7C+C%23+%7C+Python+%7C+Luau;Reverse+Engineering+%26+Low-Level+Programming;Frontend+%26+Backend+Development" alt="Typing SVG" />
+  <b>Game Hacking &middot; Reverse Engineering &middot; Software Development</b>
 </p>
 
 <p align="center">
-  <b>Low-level programming. Software engineering. Game internals.</b>
+  Understanding game internals. Building precise tools.
   <br>
-  Building systems, exploring internals, and turning ideas into reality.
+  Native Windows development, memory analysis, and software built with attention to detail.
 </p>
 
 <p align="center">
-  <a href="mailto:contactguizinstv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://nuvina.xyz">
+    <img src="https://img.shields.io/badge/Website-nuvina.xyz-18181B?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Website: nuvina.xyz" />
   </a>
-  <a href="https://discord.gg/nuvinaUD">
-    <img src="https://img.shields.io/badge/Discord-vynqdev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.gg/nuvinaud">
+    <img src="https://img.shields.io/badge/Discord-NuvinaUD-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Join the NuvinaUD Discord" />
+  </a>
+  <a href="mailto:contactguizinstv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-18181B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Vynqdev" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-Hey! I'm **Vynqdev**, a software developer passionate about programming, reverse engineering, low-level development, and game technology.
+I'm **Vynqdev**, a software developer with strong skills in **game hacking, reverse engineering, and low-level Windows development**. I work with game internals, analyze software behavior, and build custom tools with a focus on control, performance, and reliability.
 
-I enjoy exploring how software works under the hood, developing custom applications, analyzing complex systems, and building tools that solve real problems.
+**C++ is at the core of my work**, supported by C#, Python, and Luau for desktop applications, automation, and game scripting. I also develop web interfaces and backend services with JavaScript and TypeScript.
 
-From native C++ applications to full-stack web projects, I'm always experimenting with new technologies and pushing my technical skills further.
+My approach starts with understanding how a system works: reading code, debugging behavior, and testing assumptions before turning that knowledge into a practical implementation.
 
-- 💻 **Languages:** C++, C#, Python, Luau, JavaScript, and TypeScript.
-- 🔬 **Interests:** Reverse engineering, debugging, and software internals.
-- ⚙️ **Low-Level Development:** Memory concepts, pointers, native applications, and system interaction.
-- 🎮 **Game Development:** Game systems, scripting, modding, and custom tools.
-- 🌐 **Web Development:** Frontend, backend, APIs, and full-stack applications.
-- 🛠️ **Mindset:** Learn, experiment, optimize, and build.
+## Expertise
 
-## 🧠 Technical Skills
+| Discipline | Focus |
+| :--- | :--- |
+| **Game hacking** | Game internals, runtime behavior, memory analysis, and custom tooling |
+| **Reverse engineering** | Binary analysis, debugging, and understanding compiled software |
+| **C++ & Windows** | Native applications, memory management, systems programming, and performance |
+| **Game scripting** | Luau, Roblox systems, modding, and development utilities |
+| **Desktop & automation** | C# applications, Python scripts, and workflow tools |
+| **Full-stack development** | React interfaces, backend services, REST APIs, and database integration |
 
-### Programming Languages
+## Technology Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,py,lua,js,ts,html,css" alt="Programming Languages" />
-</p>
-
-### Development Areas
-
-| Area | Focus |
-|---|---|
-| ⚡ C++ Development | Native applications, performance, and systems programming |
-| 🖥️ C# Development | Desktop applications, utilities, and tooling |
-| 🐍 Python Development | Automation, scripting, and custom tools |
-| 🎮 Luau Development | Roblox scripting and game systems |
-| 🔬 Reverse Engineering | Binary analysis, debugging, and software behavior |
-| 🧠 Low-Level Programming | Pointers, memory concepts, and process architecture |
-| 🌐 Full-Stack Development | Modern interfaces, backend services, and API integration |
-| 🔌 Backend Engineering | REST APIs, server-side logic, and databases |
-| 🛠️ Software Engineering | Problem-solving, optimization, and application architecture |
-
-### Tools & Technologies
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,windows,nodejs,react,mysql,sqlite,docker" alt="Tools and Technologies" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,py,lua,js,ts,html,css&amp;theme=dark" alt="C++, C#, Python, Lua and Luau, JavaScript, TypeScript, HTML, and CSS" />
 </p>
 
-## 🎯 What I Do
+### Tools & Platforms
 
-- **Software Development** — Building applications, utilities, and custom software.
-- **Reverse Engineering** — Studying compiled programs, debugging behavior, and understanding software implementation.
-- **Low-Level Programming** — Exploring native code, memory management concepts, and system architecture.
-- **Game Technology** — Developing game systems, scripts, modifications, and development tools.
-- **Web Development** — Creating responsive interfaces, APIs, backend services, and full-stack projects.
-- **Automation & Tooling** — Building scripts and utilities to simplify workflows.
-- **Continuous Learning** — Exploring new technologies and improving through hands-on development.
-
-## 🚀 Currently Exploring
-
-- Advanced C++ and native Windows development.
-- Reverse engineering and debugging techniques.
-- Backend architecture and API development.
-- Application security and software protection.
-- Modern frontend technologies and user interfaces.
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vynqdev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vynqdev&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,windows,nodejs,react,mysql,sqlite,docker&amp;theme=dark" alt="Visual Studio, VS Code, Git, GitHub, Windows, Node.js, React, MySQL, SQLite, and Docker" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vynqdev&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-</p>
+## Nuvina
 
-## 🤝 Contact
+Find my work at **[nuvina.xyz](https://nuvina.xyz)** and connect with me through the **[NuvinaUD Discord](https://discord.gg/nuvinaud)**.
 
-Have a project in mind, want to collaborate, or just talk about software development? Feel free to reach out.
+| Website | Community |
+| :--- | :--- |
+| [nuvina.xyz](https://nuvina.xyz) | [discord.gg/nuvinaud](https://discord.gg/nuvinaud) |
 
-<p align="center">
-  <a href="mailto:contactguizinstv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contactguizinstv%40gmail.com-9D4EDD?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <br>
-  <a href="https://discord.gg/nuvinaUD">
-    <img src="https://img.shields.io/badge/Discord-vynqdev-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+## Contact
+
+For project inquiries, technical discussions, or collaboration:
+
+- **Email:** [contactguizinstv@gmail.com](mailto:contactguizinstv@gmail.com)
+- **Discord:** [discord.gg/nuvinaud](https://discord.gg/nuvinaud)
+- **GitHub:** [@vynqdev](https://github.com/vynqdev)
 
 ---
 
 <p align="center">
-  <i>"Understand the system. Master the details. Build beyond limits."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=100&section=footer" alt="Footer" />
+  <sub>Vynqdev &middot; Game internals, native code, and thoughtful engineering.</sub>
 </p>
