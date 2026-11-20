@@ -69,7 +69,7 @@ Find my work at **[nuvina.xyz](https://nuvina.xyz)** and connect with me through
 
 For project inquiries, technical discussions, or collaboration:
 
-- **Email:** [contactguizinstv@gmail.com](mailto:support@nuvina.xyz)
+- **Email:** [support@nuvina.xyz](mailto:support@nuvina.xyz)
 - **Discord:** [discord.gg/nuvinaud](https://discord.gg/nuvinaud)
 - **GitHub:** [@vynqdev](https://github.com/vynqdev)
 
